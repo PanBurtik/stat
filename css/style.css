@@ -1,0 +1,22 @@
+body{
+    background-image: url(../img/kanon.jpg);
+}
+h2{
+    text-align: center;
+    color: greenyellow;
+}
+h3{
+    color: greenyellow;
+}
+
+p{
+    color: yellow;
+}
+
+th{
+    color: yellowgreen;
+}
+
+td{
+    color: yellow;
+}
