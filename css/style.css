@@ -21,11 +21,47 @@ td{
     color: yellow;
 }
 
-#postavy .person{
+div .card{
+    border: greenyellow solid 1px;
     background-color: rgb(119, 119, 119);
+    color: yellow;
 }
 
+#postavy .card-header{
+    color: white;
+}
+    
+#postavy .card-title{
+    color:black;
+    text-shadow: 1px 1px 0 greenyellow,
+    -1px 1px 0 greenyellow,
+    1px -1px 0 greenyellow,
+    -1px -1px 0 greenyellow,
+    0px 1px 0 greenyellow,
+    0px -1px 0 greenyellow,
+    -1px 0px 0 greenyellow,
+    1px 0px 0 greenyellow,
+    0.5px 0.5px 0 greenyellow,
+    -0.5px 0.5px 0 greenyellow,
+    0.5px -0.5px 0 greenyellow,
+    -0.5px -0.5px 0 greenyellow,
+    0px 0.5px 0 greenyellow,
+    0px -0.5px 0 greenyellow,
+    -0.5px 0px 0 greenyellow,
+    0.5px 0px 0 greenyellow,
+    1px 0.5px 0 greenyellow,
+    -1px 0.5px 0 greenyellow,
+    1px -0.5px 0 greenyellow,
+    -1px -0.5px 0 greenyellow,
+    0.5px 1px 0 greenyellow,
+    -0.5px 1px 0 greenyellow,
+    0.5px -1px 0 greenyellow,
+    -0.5px -1px 0 greenyellow;
+}
 
+div .card-footer{
+    color: yellow;
+}
 
 
 #flip,
@@ -79,7 +115,7 @@ td{
   #panel-3,
   #panel-4,
   #panel-5 {
-      color: yellow;
+    color: yellow;
     padding: 40px;
     display: none;
   }
