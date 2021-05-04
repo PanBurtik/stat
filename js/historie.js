@@ -1,7 +1,7 @@
 const heroes = [
     {
        "name":"Texas State Capitol",
-       "built":"Postaveno : 21. dubna 1888",
+       "built":"Postaveno : 1882 - 1888",
        "biography":"Texas State Capitol je Capitol budova a sídlo vlády amerického státu Texas. Nachází se v centru Austinu v Texasu, struktura obsahuje kanceláře a komory texaské legislativy a guvernéra Texasu. Navržený v roce 1881 architektem Elijahem E. Myersem, byl postaven v letech 1882 až 1888 pod vedením stavebního inženýra Reubena Lindsay Walkera. V roce 1993 byla dokončena podzemní přístavba ve výši 75 milionů USD. Budova byla přidána do Národního registru historických míst v roce 1970 a v roce 1986 byla uznána jako národní kulturní památka.",
        "portraits":[
           "state-capitol.jpg",
@@ -11,7 +11,7 @@ const heroes = [
     },
     {
         "name":"Fort Worth Stockyards",
-        "built":"7.3.1850",
+        "built":"Postaveno : 1887",
         "biography":"Fort Worth Stockyards je historická čtvrť, která se nachází ve městě Fort Worth v Texasu, severně od centrální obchodní čtvrti. Část 98 ha (40 ha) zahrnující velkou část okresu byla v roce 1976 uvedena v národním registru historických míst jako Fort Worth Stockyards Historic District. Je držitelem bývalého trhu s dobytkem, který fungoval pod různými vlastníky od roku 1866.",
         "portraits":[
            "fort-worth-stockyards.jpg",
@@ -21,8 +21,8 @@ const heroes = [
      },
      {
         "name":"The Alamo",
-        "built":"5.10.1936",
-        "biography":"Bitva o Alamo (23. února - 06.3.1836) byl klíčovou událostí v texaské revoluci . Po 13-ti denní obležení , mexičtí vojáci pod prezident General Antonio López de Santa Anna kultivoval Alamo mise u San Antonio de Bexar (současný San Antonio , Texas , USA), zabíjet většinu Texians a Tejanos dovnitř. Krutost Santa Anny během bitvy inspirovala mnoho Texianů a Tejanos ke vstupu do Texianské armády. Povzbuzení touhou po pomstě Texejci porazili mexickou armádu v bitvě u San Jacinto, 21. dubna 1836, ukončující povstání.",
+        "built":"Postaveno : 8. 5. 1744",
+        "biography":"Bitva o Alamo (23.2. - 06.3.1836) byla klíčovou událostí v texaské revoluci. Po 13-ti denní obležení, mexičtí vojáci pod prezident General Antonio López de Santa Anna kultivoval Alamo mise u San Antonio de Bexar (současný San Antonio, Texas, USA), zabíjet většinu Texians a Tejanos dovnitř. Krutost Santa Anny během bitvy inspirovala mnoho Texianů a Tejanos ke vstupu do Texianské armády. Povzbuzení touhou po pomstě Texejci porazili mexickou armádu v bitvě u San Jacinto, 21. dubna 1836, ukončující povstání.",
         "portraits":[
            "Alamo.jpg",
            "Alamo-2.jpg"
@@ -31,7 +31,7 @@ const heroes = [
      },
      {
         "name":"Quinta Mazatlan",
-        "built":"28.3.1592",
+        "built":"Postaveno : 1891–1963",
         "biography":"World Birding centrum je oficiální titul daný kombinovaným devíti parků a chráněných krajinných oblastí Rio Grande Valley oblasti Texasu spravuje partnerství s Texas parků a divoké zvěře odboru, do Spojených států Fish and Wildlife Service, a místní komunity v v nichž sídlí parky. Uvedenou misí Světového centra pro ptáky je „chránit přirozené prostředí a současně zvýšit porozumění a uznání ptáků a volně žijících živočichů,“ s dalším důrazem na podporu místního hospodářského rozvoje prostřednictvím ekoturistiky.",
         "portraits":[
            "quinta-mazatlan.jpg",
@@ -41,8 +41,8 @@ const heroes = [
      },
      {
          "name":"Mission San Jose",
-         "built":"Postaveno : 1768",
-         "biography":"Mission San José je španělská mise umístěná v dnešním městě Fremont v Kalifornii. Byla založena 11. června 1797 františkánským řádem a byla čtrnáctou španělskou misí založenou v Kalifornii. Mise je jmenovkou misionářské čtvrti San José ve Fremontu, která byla samostatným městem zahrnutým do města, když byla založena v roce 1957. Mise vstoupila do dlouhého období postupného úpadku po mexickém sekularizačním aktu z roku 1833. Poté, co utrpěl úpadek, zanedbávání a zemětřesení, byla většina mise v troskách. Obnova v mezidobí rekonstruovala mnoho původních staveb. Starý kostel mise zůstane v použití jako kaple svatého Josefa katolické církve, farnosti na diecézi Oakland. V muzeu je také návštěvnické centrum, muzeum a prezentace, která vypráví o historii mise.",
+         "built":"Postaveno : 1782",
+         "biography":"Mission San José y San Miguel de Aguayo je historická katolická mise v San Antoniu v Texasu ve Spojených státech. Mise byla částečně pojmenována pro markýze de San Miguel de Aguayo Josého de Azlor y Virto de Vera . Mnoho budov v areálu Texas Tech University v Lubbocku v Texasu si vypůjčuje architektonické prvky od budov nalezených v Mission San José.",
          "portraits":[
             "kostel.JPG",
             "kostel-2.JPG"
@@ -51,7 +51,7 @@ const heroes = [
       },
       {
          "name":"Fort Worth Botanic Garden",
-         "built":"Postavena : 1934",
+         "built":"Postaveno : 1929",
          "biography":"Fort Worth Botanic Garden (110 akrů) je botanická zahrada se nachází na 3220 Botanic Garden Boulevard, Fort Worth v Texasu. Zahrada byla založena v roce 1934 a je nejstarší významnou botanickou zahradou v Texasu. Nachází se v samém srdci kulturní čtvrti. Nejoblíbenější oblasti jsou The Fuller, Rose a Japanese Gardens.",
          "portraits":[
             "garden.jpg",
@@ -61,7 +61,7 @@ const heroes = [
       },
       {
         "name":"National Ranching Heritage Center",
-        "built":"9.1.1890",
+        "built":"Postaveno : 1969",
         "biography":"National Ranchigem Heritage Center, je muzeum z farmaření historie, který se nachází na kampusu Texas Tech University v Lubbock, Texas. NRHC představuje téměř padesát autentických rančových budov z konce 18. až poloviny 20. století. Mezi tyto stavby patří železniční nádraží , usedlosti, stodola, kovárna, školní dům, větrné mlýny a další historické stavby. Jeden si prohlíží exponáty prostřednictvím vlastní prohlídky s průvodcem. Pro veřejnost je zdarma.",
         "portraits":[
            "farm.jpg",
@@ -131,35 +131,15 @@ heroes.forEach((hero)=>{
 })
 
 
-$(document).ready(function(){
-    $("#flip").click(function(){
-      $("#panel").slideToggle("slow");
-    });
-  });
+$(function () {
+   $('.header').click(function () {
+       $(this).next('div').slideToggle();
 
-$(document).ready(function(){
-    $("#flip-2").click(function(){
-      $("#panel-2").slideToggle("slow");
-    });
-  });
+       $(this).parent().siblings().children().next().slideUp();
+       return false;
+   });
+});
 
-  $(document).ready(function(){
-    $("#flip-3").click(function(){
-      $("#panel-3").slideToggle("slow");
-    });
-  });
-
-  $(document).ready(function(){
-    $("#flip-4").click(function(){
-      $("#panel-4").slideToggle("slow");
-    });
-  });
-
-  $(document).ready(function(){
-    $("#flip-5").click(function(){
-      $("#panel-5").slideToggle("slow");
-    });
-  });
 
 
   

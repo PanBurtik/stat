@@ -64,11 +64,7 @@ div .card-footer{
 }
 
 
-#flip,
-#flip-2,
-#flip-3,
-#flip-4,
-#flip-5{
+.header{
     color:black;
     text-shadow: 1px 1px 0 greenyellow,
     -1px 1px 0 greenyellow,
@@ -96,26 +92,17 @@ div .card-footer{
     -0.5px -1px 0 greenyellow;
 }
 
-
-#panel, #flip,
-#panel-2, #flip-2,
-#panel-3, #flip-3,
-#panel-4, #flip-4,
-#panel-5, #flip-5{
+.header, .main{
     font-weight: bold;
     padding: 5px;
     text-align: center;
     color: black;
     background-color: rgb(119, 119, 119);
     border: solid 2px white;
-  }
-  
-  #panel,
-  #panel-2,
-  #panel-3,
-  #panel-4,
-  #panel-5 {
+}
+
+.main{
     color: yellow;
     padding: 40px;
     display: none;
-  }
+}
