@@ -1,6 +1,7 @@
 body{
     background-image: url(../img/kanon.jpg);
 }
+
 h2{
     text-align: center;
     color: greenyellow;
@@ -106,3 +107,27 @@ div .card-footer{
     padding: 40px;
     display: none;
 }
+
+.map{
+    width: 80%;
+    margin: auto;
+}
+
+.map path{
+    fill: greenyellow;
+    stroke: black;
+    stroke-linejoin: bevel;
+    stroke-width: 1px;
+    transition: fill 0.3s;
+}
+
+.map :hover{
+    fill: black;
+}
+
+.map ellipse{
+    fill: red;
+    stroke: black;
+    stroke-width: 0.5px;
+}
+
