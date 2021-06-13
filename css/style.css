@@ -2,6 +2,34 @@ body{
     background-image: url(../img/kanon.jpg);
 }
 
+h1{
+    color:yellow;
+    text-shadow: 1px 1px 0 black,
+    -2px 1px 0 black,
+    1px -2px 0 black,
+    -2px -2px 0 black,
+    0px 1px 0 black,
+    0px -2px 0 black,
+    -2px 0px 0 black,
+    1px 0px 0 black,
+    2.5px 2.5px 0 black,
+    -2.5px 2.5px 0 black,
+    2.5px -2.5px 0 black,
+    -2.5px -2.5px 0 black,
+    0px 2.5px 0 black,
+    0px -2.5px 0 black,
+    -2.5px 0px 0 black,
+    2.5px 0px 0 black,
+    1px 2.5px 0 black,
+    -2px 2.5px 0 black,
+    1px -2.5px 0 black,
+    -2px -2.5px 0 black,
+    2.5px 1px 0 black,
+    -2.5px 1px 0 black,
+    2.5px -2px 0 black,
+    -2.5px -2px 0 black;
+}
+
 h2{
     text-align: center;
     color: greenyellow;
@@ -106,28 +134,5 @@ div .card-footer{
     color: yellow;
     padding: 40px;
     display: none;
-}
-
-.map{
-    width: 80%;
-    margin: auto;
-}
-
-.map path{
-    fill: greenyellow;
-    stroke: black;
-    stroke-linejoin: bevel;
-    stroke-width: 1px;
-    transition: fill 0.3s;
-}
-
-.map :hover{
-    fill: black;
-}
-
-.map ellipse{
-    fill: red;
-    stroke: black;
-    stroke-width: 0.5px;
 }
 
