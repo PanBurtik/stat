@@ -1,0 +1,23 @@
+{
+  "name": "texas",
+  "version": "1.0.0",
+  "description": "\"# formular-validace\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanBurtik/stat.git"
+  },
+  "author": "PanBurtik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanBurtik/stat/issues"
+  },
+  "homepage": "https://github.com/PanBurtik/stat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

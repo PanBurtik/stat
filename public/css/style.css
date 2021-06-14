@@ -1,0 +1,138 @@
+body{
+    background-image: url(../img/kanon.jpg);
+}
+
+h1{
+    color:yellow;
+    text-shadow: 1px 1px 0 black,
+    -2px 1px 0 black,
+    1px -2px 0 black,
+    -2px -2px 0 black,
+    0px 1px 0 black,
+    0px -2px 0 black,
+    -2px 0px 0 black,
+    1px 0px 0 black,
+    2.5px 2.5px 0 black,
+    -2.5px 2.5px 0 black,
+    2.5px -2.5px 0 black,
+    -2.5px -2.5px 0 black,
+    0px 2.5px 0 black,
+    0px -2.5px 0 black,
+    -2.5px 0px 0 black,
+    2.5px 0px 0 black,
+    1px 2.5px 0 black,
+    -2px 2.5px 0 black,
+    1px -2.5px 0 black,
+    -2px -2.5px 0 black,
+    2.5px 1px 0 black,
+    -2.5px 1px 0 black,
+    2.5px -2px 0 black,
+    -2.5px -2px 0 black;
+}
+
+h2{
+    text-align: center;
+    color: greenyellow;
+}
+h3{
+    color: greenyellow;
+}
+
+p{
+    color: yellow;
+}
+
+th{
+    color: greenyellow;
+}
+
+td{
+    color: yellow;
+}
+
+div .card{
+    border: greenyellow solid 1px;
+    background-color: rgb(119, 119, 119);
+    color: yellow;
+}
+
+#postavy .card-header{
+    color: white;
+}
+    
+#postavy .card-title{
+    color:black;
+    text-shadow: 1px 1px 0 greenyellow,
+    -1px 1px 0 greenyellow,
+    1px -1px 0 greenyellow,
+    -1px -1px 0 greenyellow,
+    0px 1px 0 greenyellow,
+    0px -1px 0 greenyellow,
+    -1px 0px 0 greenyellow,
+    1px 0px 0 greenyellow,
+    0.5px 0.5px 0 greenyellow,
+    -0.5px 0.5px 0 greenyellow,
+    0.5px -0.5px 0 greenyellow,
+    -0.5px -0.5px 0 greenyellow,
+    0px 0.5px 0 greenyellow,
+    0px -0.5px 0 greenyellow,
+    -0.5px 0px 0 greenyellow,
+    0.5px 0px 0 greenyellow,
+    1px 0.5px 0 greenyellow,
+    -1px 0.5px 0 greenyellow,
+    1px -0.5px 0 greenyellow,
+    -1px -0.5px 0 greenyellow,
+    0.5px 1px 0 greenyellow,
+    -0.5px 1px 0 greenyellow,
+    0.5px -1px 0 greenyellow,
+    -0.5px -1px 0 greenyellow;
+}
+
+div .card-footer{
+    color: yellow;
+}
+
+
+.header{
+    color:black;
+    text-shadow: 1px 1px 0 greenyellow,
+    -1px 1px 0 greenyellow,
+    1px -1px 0 greenyellow,
+    -1px -1px 0 greenyellow,
+    0px 1px 0 greenyellow,
+    0px -1px 0 greenyellow,
+    -1px 0px 0 greenyellow,
+    1px 0px 0 greenyellow,
+    0.5px 0.5px 0 greenyellow,
+    -0.5px 0.5px 0 greenyellow,
+    0.5px -0.5px 0 greenyellow,
+    -0.5px -0.5px 0 greenyellow,
+    0px 0.5px 0 greenyellow,
+    0px -0.5px 0 greenyellow,
+    -0.5px 0px 0 greenyellow,
+    0.5px 0px 0 greenyellow,
+    1px 0.5px 0 greenyellow,
+    -1px 0.5px 0 greenyellow,
+    1px -0.5px 0 greenyellow,
+    -1px -0.5px 0 greenyellow,
+    0.5px 1px 0 greenyellow,
+    -0.5px 1px 0 greenyellow,
+    0.5px -1px 0 greenyellow,
+    -0.5px -1px 0 greenyellow;
+}
+
+.header, .main{
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    color: black;
+    background-color: rgb(119, 119, 119);
+    border: solid 2px white;
+}
+
+.main{
+    color: yellow;
+    padding: 40px;
+    display: none;
+}
+

@@ -1,0 +1,86 @@
+[
+    {
+       "id":"amarillo",
+       "city":"Amarillo",
+       "peoples":198955,
+       "photo":"amarillo.jpg",
+       "text":"Amarillo je město v americkém státě z Texasu a sídlo z Potter County. Je to 14. nejlidnatější město v Texasu a největší město v Texas Panhandle. Část města zasahuje do okresu Randall. Odhadovaná populace Amarilla byla od roku 2019 199 371 .Od roku 2019 měla metropolitní oblast Amarillo odhadovanou populaci 269,447, a kombinovaná statistická oblast Amarillo-Pampa-Borger populaci 308,064."
+    },
+    {
+       "id":"lubbock",
+       "city":"Lubbock",
+       "peoples":253851 ,
+       "photo":"lubbock.jpg",
+       "text":"Lubbock je z 11. nejlidnatější město v americkém státě z Texasu a krajské město z Lubbock County. S počtem obyvatel 258 862 v roce 2019 je město také 83. nejlidnatějším místem v USA. Město se nachází v severozápadní části státu, v regionu známém historicky a geograficky jako Llano Estacado a ekologicky je součástí jižního konceHigh Plains, ležící v ekonomickém centru metropolitní oblasti Lubbock, která má v roce 2020 odhadovanou populaci 327 424."
+    },
+    {
+       "id":"midland",
+       "city":"Midland",
+       "peoples":123933,
+       "photo":"midland.jpg",
+       "text":"Midland je americké město v Midland County v severovýchodním Texasu. K roku 2013 zde žilo 123 933 obyvatel. S celkovou rozlohou 185,2 km² byla hustota zalidnění 601,8 obyvatel na km². Město je známé jako rodiště bývalé první dámy Spojených států Laury Bushové a je místem, kde vyrůstal bývalý prezident George W. Bush."
+    },
+    {
+       "id":"odessa",
+       "city":"Odessa",
+       "peoples":993120,
+       "photo":"oddesa.jpg",
+       "text":"Odessa je krajské město z Ector County, v Texasu. Oddesa měla při sčítání lidu roku 2010 99 940 obyvatel , což z ní činí 28. nejlidnatější město v Texasu. Je to hlavní město metropolitní statistické oblasti Oděsy, který zahrnuje celý Ector County. V roce 2014 časopis Forbes zařadil Oddesu jako třetí nejrychleji rostoucí malé město ve Spojených státech. V roce 1948 byla Oděsa také domovem první dámy Barbary Bushové a bývalým domovem bývalých prezidentů George HW Bushe a George W. Bushe. Bývalý prezident George HW Bush byl citován slovy: „V Oděse jsme se stali Texany a jsme na to hrdí.“"
+    },
+    {
+       "id":"fort-worth",
+       "city":"Fort Worth",
+       "peoples":909585,
+       "photo":"fortworth.jpg",
+       "text":"Fort Worth je páté nejlidnatější město Texasu (po Houstonu, San Antoniu, Dallasu a Austinu) a šestnácté v USA. Samotné město má 909 tisíc obyvatel, celá metropolitní oblast pak 7,57 milionu. Rozkládá se na ploše 920 kilometrů čtverečních. Je také sídlem správy okresu Tarrant County. Leží 50 kilometrů od Dallasu, se kterým tvoří konurbaci Dallas-Fort Worth-Arlington. Bylo založeno v roce 1849, po mexicko-americké válce, majorem Ripleyem jako pevnost pojmenovaná na počest generála Williama Jenkinse Wortha."
+    },
+    {
+       "id":"dallas",
+       "city":"Dallas",
+       "peoples":1331026,
+       "photo":"dallas.jpg",
+       "text":"Dallas je třetí nejlidnatější město ve státě Texas (po Houstonu a San Antoniu) a deváté v USA. Město založené roku 1841 je velké i územně, rozkládá se na 997 km² (385 mi²). Dallas County je devátý největší okres v zemi. Dallas patří mezi 11 měst USA, která jsou zařazena mezi tzv. globální města, a byl označen vysokým stupněm „Gamma World City“. Město je údajně pojmenováno po Georgi Mifflinu Dallasovi, což byl americký viceprezident (1845–1849)."
+    },
+    {
+       "id":"waco",
+       "city":"Waco",
+       "peoples":135858,
+       "photo":"waco.jpg",
+       "text":"Waco je krajské město z McLennan County, v Texasu. Nachází se podél řeky Brazos a I-35, na půli cesty mezi Dallasem a Austinem. Město mělo v roce 2010 populaci 124 805, což z něj činí 22. nejlidnatější město ve státě. Odhad počtu obyvatel města 2019 v roce 2019 byl 139 236. Waco metropolitní statistická oblastSkládá se z okresů McLennan a Falls, které měly v roce 2010 populaci 234 906. Falls County byl přidán do Waco MSA v roce 2013. Odhad počtu obyvatel USA v roce 2019 pro metropolitní oblast Waco byl 273 920."
+    },
+    {
+       "id":"houston",
+       "city":"Houston",
+       "peoples":2310452,
+       "photo":"houston.jpg",
+       "text":"Houston je nejlidnatější město státu Texas a čtvrté nejlidnatější město Spojených států amerických. Podle sčítání lidu zde žijí přibližně dva miliony lidí, přičemž celá metropolitní oblast má okolo 5,3 milionu obyvatel, což jí řadí na sedmou největší aglomeraci v USA. Město zabírá přes 1 600 km². Houstonu se přezdívá „Space city“, neboť v něm sídlí Lyndon B. Johnson Space Center, odkud byly řízeny vesmírné lety amerických raketoplánů. Město se dále specializuje na výrobu zařízení k těžbě ropy. Zdejší přístav je desátým největším přístavem na světě. Ve městě sídlí i firma Texas Medical Center, která je největší zdravotnickou firmou na světě."
+    },
+    {
+       "id":"san-antonio",
+       "city":"San Antonio",
+       "peoples":1508318,
+       "photo":"sanantonio.jpg",
+       "text":"San Antonio je druhé nejlidnatější město v americkém státě Texas a sedmé nejlidnatější město ve Spojených státech. V roce 2010 zde žilo více než 1,3 milionu obyvatel. V metropolitní oblasti města žije přes 1,8 milionu obyvatel, což je neobvykle málo. Ve Spojených státech je počet obyvatel v aglomeraci většinou několikrát větší, než počet obyvatel města. San Antonio je sídlo Bexar County a rozloha města je 1067,3 km². V San Antoniu se nachází několik významných nemocnic a výzkumných lékařských zařízení. Farmaceutický průmysl je takřka jediným průmyslem."
+    },
+    {
+       "id":"laredo",
+       "city":"Laredo",
+       "peoples":259151,
+       "photo":"laredo.jpg",
+       "text":"Laredo je město vzdálené 248 km jižně od San Antonia ve Webb County v Texasu v USA. Bylo založeno v roce 1755. Podle sčítání z roku 2010 žije ve městě 236 191 obyvatel. Velký růst město zaznamenalo v posledních 40 letech (ještě v roce 1970 mělo pod 70 tisíc obyvatel) a je druhým nejrychleji rostoucím městem v USA (po Las Vegas). Laredo je centrem okresu Webb County, který měl podle sčítání v roce 2010 přesně 250 304 obyvatel."
+    },
+    {
+       "id":"brownsville",
+       "city":"Brownsville",
+       "peoples":182271,
+       "photo":"brownsvile.jpg",
+       "text":"Brownsville je město v okresu Cameron County ve státě Texas ve Spojených státech amerických. K roku 2010 zde žilo 175 023 obyvatel. S celkovou rozlohou 382 km² byla hustota zalidnění 458,2 obyvatel na km²."
+    },
+    {
+       "id":"el-paso",
+       "city":"El Paso",
+       "peoples":679813,
+       "photo":"elpaso.jpg",
+       "text":"El Paso je město ve státě Texas na jihozápadě Spojených států amerických a sídlo El Paso County. Podle cenzu z roku 2006 má město 609 415 obyvatel. Jedná se o šesté nejlidnatější město Texasu, jednadvacáté v USA a o sedmé nejdynamičtěji se rozvíjející město v USA v letech 2000–2006. Leží na řece Rio Grande, která ho dělí od mexického města Ciudad Juárez. Ve městě se nachází University of Texas El Paso a velká vojenská základna Armády Spojených států Fort Bliss."
+    }
+ ]
